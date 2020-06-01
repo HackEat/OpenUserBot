@@ -81,7 +81,7 @@ async def killdabot(event):
 
 @register(outgoing=True, pattern="^.community$")
 async def bot_community(community):
-    """ For .community command, just returns OG Paperplane's group link. """
+    """ For .community command, just returns FlixTV's group link. """
     await community.edit(
         "Join FlixTV/FlixPlay Support Group : @FlixTV_Group"
         "\nDo Note That FlixPlay/FlixTV Requires A Valid Voucher "
