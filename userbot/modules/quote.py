@@ -26,4 +26,5 @@ async def quote(msgs):
 CMD_HELP.update({
     "quotes":
     ".quote\
-\nUsage: Reply .quote to a sticker or an image to kang it to your userbot pack.\
+\nUsage: Reply .quote to a sticker or an image to kang it to your userbot pack.\"
+})
