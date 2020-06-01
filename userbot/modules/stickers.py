@@ -24,11 +24,11 @@ KANGING_STR = [
     "Inviting this sticker over to my pack...",
     "Kanging this sticker...",
     "Hey that's a nice sticker!\nMind if I kang?!..",
-    "hehe me stel ur stikér\nhehe.",
+    "1,2,3 Boom. Your Sticker Has Betrayed You.",
     "Ay look over there (☉｡☉)!→\nWhile I kang this...",
     "Roses are red violets are blue, kanging this sticker so my pacc looks cool",
-    "Imprisoning this sticker...",
-    "Mr.Steal Your Sticker is stealing this sticker... ",
+    "Taking This Sticker Under My Remand...",
+    "That's A Lit Sticker Which You Don't Deserve,So NVM I'll Take It... ",
 ]
 
 
@@ -96,7 +96,7 @@ async def kang(args):
                 emoji = splat[1]
 
         packname = f"a{user.id}_by_{user.username}_{pack}"
-        packnick = f"@{user.username}'s kang pack Vol.{pack}"
+        packnick = f"@{user.username}'s Vol.{pack}"
         cmd = '/newpack'
         file = io.BytesIO()
 
