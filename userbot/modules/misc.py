@@ -191,11 +191,7 @@ CMD_HELP.update({
 \nUsage: If you are curious which is your personal repo, this is what you have.'
 })
 
-CMD_HELP.update({
-    "readme":
-    ".readme\
-\nUsage: Provide links to setup the userbot and it's modules."
-})
+
 
 CMD_HELP.update(
     {"creator": ".creator\
