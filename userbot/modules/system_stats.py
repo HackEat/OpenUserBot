@@ -137,7 +137,7 @@ async def amireallyalive(alive):
                      "Stop Reading Already. \n"
                      f"Telethon : {version.__version__} \n"
                      f"------------------------------------ \n"
-                     f"Checkout FlixPlay : https://flixtv.xyz \n"
+                     f"Checkout FlixPlay : [Click Me](https://flixtv.xyz) \n"
                      f"My Owner: {DEFAULTUSER} \n"
                      f"Organization : TeamFlix \n"
                      f"Username : @RandomGuyRG69 \n"
