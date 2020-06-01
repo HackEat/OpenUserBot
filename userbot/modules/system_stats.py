@@ -78,7 +78,7 @@ async def bot_ver(event):
                              "`Revision: "
                              f"{revout}"
                              "` \n"
-                             "`OpenUserBot Version: 7.7.7`")
+                             "`FlixUserBot Version: 3.0`")
         else:
             await event.edit(
                 "Shame that you don't have Git, you're running v1.0 anyway!")
@@ -135,12 +135,12 @@ async def amireallyalive(alive):
     await alive.edit(
                      "Working Fine Keks. \n"
                      "Stop Reading Already. \n"
-                     f"Telethon: {version.__version__} \n"
+                     f"Telethon : {version.__version__} \n"
                      f"------------------------------------ \n"
-                     f"Checkout FlixPlay: https://flixtv.xyz \n"
-                     f"My Owner:: {DEFAULTUSER} \n"
-                     f"Organization: TeamFlix \n"
-                     f"Username: `@RandomGuyRG69` \n"
+                     f"Checkout FlixPlay : https://flixtv.xyz \n"
+                     f"My Owner: {DEFAULTUSER} \n"
+                     f"Organization : TeamFlix \n"
+                     f"Username : @RandomGuyRG69 \n"
                      )    
 
 
